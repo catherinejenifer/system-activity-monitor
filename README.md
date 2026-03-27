@@ -30,8 +30,12 @@ This project is for educational and ethical cybersecurity purposes only.
    pip install pynput
 
 2. Set environment variables:
-   EMAIL=[catherinearthur0514@gmail.com](mailto:catherinearthur0514@gmail.com@gmail.com)
-   APP_PASSWORD=your_app_password
+   EMAIL=your_email@gmail.com
+APP_PASSWORD=your_app_password
 
 3. Run:
    python sender.py
+
+## 📸 Output Screenshots
+Successful email alerts received in Gmail [Screenshot1.png]
+Real-time logging confirmation in terminal [Screenshot2.png]
