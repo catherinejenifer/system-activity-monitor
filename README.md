@@ -37,5 +37,7 @@ APP_PASSWORD=your_app_password
    python sender.py
 
 ## 📸 Output Screenshots
-Successful email alerts received in Gmail [Screenshot1.png]
-Real-time logging confirmation in terminal [Screenshot2.png]
+![Confirmation](Screenshot1.png) Real-time logging confirmation in terminal
+![Alert](Screenshot2.png) Successful email alerts received in Gmail
+
+
